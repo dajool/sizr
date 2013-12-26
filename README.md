@@ -15,6 +15,8 @@ At the moment sizr has the status "prove of concept", so don't expect it to work
 
 sizr uses base64 to encode URLs. But it has to be URL-safe, which standard base64 isn't.
 
-iOS: http://stackoverflow.com/questions/11106393/url-safe-base64-in-objective-c
-Java: http://commons.apache.org/proper/commons-codec/apidocs/org/apache/commons/codec/binary/Base64.html#Base64%28boolean%29
-Perl: http://search.cpan.org/~kazuho/MIME-Base64-URLSafe-0.01/lib/MIME/Base64/URLSafe.pm
+[iOS](http://stackoverflow.com/questions/11106393/url-safe-base64-in-objective-c)
+
+[Java](http://commons.apache.org/proper/commons-codec/apidocs/org/apache/commons/codec/binary/Base64.html#Base64%28boolean%29)
+
+[Perl](http://search.cpan.org/~kazuho/MIME-Base64-URLSafe-0.01/lib/MIME/Base64/URLSafe.pm)
